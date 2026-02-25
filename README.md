@@ -43,6 +43,6 @@ _(Linguagens e sistemas que fazem parte do meu dia a dia)_
 
 ### 📊 Minhas Estatísticas
 
-[![Estatísticas do Harofry](https://github-readme-stats.vercel.app/api?username=Harofry&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Harofry)
+[![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harofry&theme=tokyonight)](https://github.com/Harofry)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Harofry&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Harofry)
+[![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harofry&theme=tokyonight)](https://github.com/Harofry)
