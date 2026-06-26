@@ -4,7 +4,7 @@
 
 Nos dias atuais moro na capital do RN onde estudo e trabalho na área de tecnologia, estou próximo da conclusão do meu bacharel em T.I na UFRN, então aqui vai um resumo sucinto do meu perfil como estudante e profissional:
 
-- 🔭 **Atualmente estou trabalhando em:** Desenvolvimento de demandas do RH na CDA distribuidora, desenvolvimento do site `7construções.com.br` com deploy na Vercel, projetos acadêmicos no IMD (UFRN) e um sistema de modelagem de probabilidades para monstros de RPG usando Redes Bayesianas.
+- 🔭 **Atualmente estou trabalhando em:** projetos acadêmicos no IMD (UFRN) e um sistema de desenvolvimento pessoal com várias ferramentas.
 - 🌱 **No momento estou aprendendo:** Testes automatizados, variavéis de ambiente, domínios, arquitetura de software, machine learning e ferramentas de desenvolvimento assistido com IA .
 - 👯 **Estou procurando colaborar em:** Projetos colaborativos open source focados em IA, aplicações estruturadas em phyton e soluções web.
 - 🤔 **Preciso de ajuda com:** Exploração de datasets complexos no Kaggle e otimização de endpoints.
